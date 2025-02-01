@@ -1,1 +1,1 @@
-# ChatGPT-and-LangChain
+# ChatGPT and .LangChain
